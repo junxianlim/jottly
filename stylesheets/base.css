@@ -454,7 +454,7 @@
 	margin-top: 1em;
 }
 
-#testmonials .avatar img {
+#testimonials .avatar img {
 	border-radius: 50%;
 	float: left;
 	display: inline;
@@ -467,7 +467,7 @@
 	text-align: left;
 	padding-top: 1.5em;
 	color: #5d5d5d;
-	font-weighT: 900;
+	font-weight: 900;
 }
 
 /* Action */
